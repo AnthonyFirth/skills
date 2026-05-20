@@ -1,3 +1,8 @@
+---
+name: mctest10012
+description: Basics of Minecraft speedrunning — the standard Any% RSG route, key techniques, tools, common pitfalls, and category overview.
+---
+
 # Minecraft Speedrunning Basics
 
 Speedrunning Minecraft means beating the game — defeating the Ender Dragon — as fast as possible from a fresh world. The most popular category is **Any% Random Seed Glitchless (RSG) 1.16+**, where the seed is random and major glitches are banned.
